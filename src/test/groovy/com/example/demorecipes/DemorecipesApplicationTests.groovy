@@ -8,6 +8,7 @@ class DemorecipesApplicationTests {
 
 	@Test
 	void contextLoads() {
+		// Test the context loading of the application
 	}
 
 }
